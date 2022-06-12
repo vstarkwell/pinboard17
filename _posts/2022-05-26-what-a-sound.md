@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What a sound!
-categories: music
+categories: bookmarks
 ---
 
 <div class="youtube-embed-container">

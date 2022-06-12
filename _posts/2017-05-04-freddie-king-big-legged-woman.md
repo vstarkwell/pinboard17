@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Freddie King - Big Legged Woman
-categories: music
+categories: bookmarks
 ---
 
 <div class="youtube-embed-container">

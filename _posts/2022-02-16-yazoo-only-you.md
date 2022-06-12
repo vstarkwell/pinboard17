@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Yazoo - Only You
-categories: music
+categories: bookmarks
 ---
 
 <div class="youtube-embed-container">

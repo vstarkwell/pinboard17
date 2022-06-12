@@ -3,35 +3,77 @@ layout: default
 ---
 
 <section id="home"> <!-- HOME -->
-    <article>
-    {% for post in site.posts %}
-        <h2><a href="{{ post.url }}">{{ post.title }}</a> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></h2>
-    {% endfor %}
-    </article>
+    <p>Just my online dumpster of <a href="/#writings">writings</a>, <a href="/#notes">notes</a>, <a href="/#quotes">quotes</a>, <a href="/#bookmarks">bookmarks</a> &amp; <a href="/#images">images</a>. </p>
+    <p><a href="https://www.instagram.com/nikosvarr17" rel="noopener noreferrer" target="_blank">Insta</a></p>
 </section>
 
 <section id="about"> <!-- ABOUT -->
     <p>Just odds ’n ends. My online bookmarks and notes dumpster.</p>
     <p><a href="https://www.instagram.com/nikosvarr17" rel="noopener noreferrer" target="_blank">Insta</a></p>
-    <!-- <figure>
+    <figure>
     <a href="#img-about">
     <img loading="lazy" alt="" src="//via.placeholder.com/1200x600/ddd/ccc" width="1200" height="600"></a>
     <figcaption>Example of an image with a link to a larger version.</figcaption>
-    </figure> -->
+    </figure>
 </section>
 
 <!-- Blog -->
-<!-- <section id="blog"> 
+<section id="blog"> 
     <article>
     {% for post in site.posts %}
         <h2><a href="{{ post.url }}">{{ post.title }}</a> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></h2>
     {% endfor %}
     </article>
-</section> -->
+</section>
+
+<!-- Writings -->
+<section id="writings"> 
+    <article>
+    {% for post in site.categories['writings'] %}
+        <h2><a href="{{ post.url }}">{{ post.title }}</a> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></h2>
+    {% endfor %}
+    </article>
+</section>
+
+<!-- Notes -->
+<section id="notes"> 
+    <article>
+    {% for post in site.categories['notes'] %}
+        <h2><a href="{{ post.url }}">{{ post.title }}</a> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></h2>
+    {% endfor %}
+    </article>
+</section>
+
+<!-- Quotes -->
+<section id="quotes"> 
+    <article>
+    {% for post in site.categories['quotes'] %}
+        <h2><a href="{{ post.url }}">{{ post.title }}</a> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></h2>
+    {% endfor %}
+    </article>
+</section>
+
+<!-- Bookmarks -->
+<section id="bookmarks"> 
+    <article>
+    {% for post in site.categories['bookmarks'] %}
+        <h2><a href="{{ post.url }}">{{ post.title }}</a> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></h2>
+    {% endfor %}
+    </article>
+</section>
+
+<!-- Images -->
+<section id="images"> 
+    <article>
+    {% for post in site.categories['images'] %}
+        <h2><a href="{{ post.url }}">{{ post.title }}</a> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></h2>
+    {% endfor %}
+    </article>
+</section>
 
 <!-- PHOTOS -->
 <!-- You can use this grid of images in any page -->
-<!-- <section id="photos"> 
+<section id="photos"> 
     <p>An example of a photo gallery with a lightbox.</p>
     <div class="grid">
         <a href="#img-01"><img loading="lazy" alt="" src="//via.placeholder.com/300x300/ddd/ccc"></a>
@@ -50,10 +92,10 @@ layout: default
         <a href="#img-14"><img loading="lazy" alt="" src="//via.placeholder.com/400x300/ddd/ccc"></a>
         <a href="#img-15"><img loading="lazy" alt="" src="//via.placeholder.com/300x400/ddd/ccc"></a>
     </div>
-</section> -->
+</section>
 
 <!-- PORTFOLIO -->
-<!-- <section id="portfolio"> 
+<section id="portfolio"> 
     <div class="slides">
         <figure><img loading="lazy" alt="" src="//via.placeholder.com/4000x3000/ddd/ccc"></figure>
         <figure><img loading="lazy" alt="" src="//via.placeholder.com/3000x4000/ddd/ccc"></figure>
@@ -67,13 +109,13 @@ layout: default
         <figure><img loading="lazy" alt="" src="//via.placeholder.com/1000x1000/ddd/ccc"></figure>
         <figure><img loading="lazy" alt="" src="//via.placeholder.com/4000x3000/ddd/ccc"></figure>
     </div>
-</section> -->
+</section>
 
 <!-- ANOTHER PAGE -->
-<!-- <section id="another-page"> 
+<section id="another-page"> 
     <p>This page is not referenced in the menu, yet it exists.</p>
     <p><a href="#about">← back</a></p>
-</section> -->
+</section>
 
 <!-- ----------
     LIGHTBOX IMAGES
@@ -81,7 +123,7 @@ layout: default
 
     <!-- PHOTOS grid -->
 
-    <!-- <a href="#photos" class="lightbox" id="img-01"><img loading="lazy" alt="" src="//via.placeholder.com/3000x3000/ddd/ccc"></a>
+    <a href="#photos" class="lightbox" id="img-01"><img loading="lazy" alt="" src="//via.placeholder.com/3000x3000/ddd/ccc"></a>
     <a href="#photos" class="lightbox" id="img-02"><img loading="lazy" alt="" src="//via.placeholder.com/4000x3000/ddd/ccc"></a>
     <a href="#photos" class="lightbox" id="img-03"><img loading="lazy" alt="" src="//via.placeholder.com/3000x4000/ddd/ccc"></a>
     <a href="#photos" class="lightbox" id="img-04"><img loading="lazy" alt="" src="//via.placeholder.com/3000x3000/ddd/ccc"></a>
@@ -95,8 +137,8 @@ layout: default
     <a href="#photos" class="lightbox" id="img-12"><img loading="lazy" alt="" src="//via.placeholder.com/3000x4000/ddd/ccc"></a>
     <a href="#photos" class="lightbox" id="img-13"><img loading="lazy" alt="" src="//via.placeholder.com/3000x3000/ddd/ccc"></a>
     <a href="#photos" class="lightbox" id="img-14"><img loading="lazy" alt="" src="//via.placeholder.com/4000x3000/ddd/ccc"></a>
-    <a href="#photos" class="lightbox" id="img-15"><img loading="lazy" alt="" src="//via.placeholder.com/3000x4000/ddd/ccc"></a> -->
+    <a href="#photos" class="lightbox" id="img-15"><img loading="lazy" alt="" src="//via.placeholder.com/3000x4000/ddd/ccc"></a>
 
     <!-- Other images -->
 
-    <!-- <a href="#about" class="lightbox" id="img-about"><img loading="lazy" alt="" src="//via.placeholder.com/2400x1200/ddd/ccc"></a> -->
+    <a href="#about" class="lightbox" id="img-about"><img loading="lazy" alt="" src="//via.placeholder.com/2400x1200/ddd/ccc"></a>

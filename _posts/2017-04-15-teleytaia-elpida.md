@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Τελευταία ελπίδα
-categories: trash
+categories: bookmarks
 ---
 
 <div class="youtube-embed-container">

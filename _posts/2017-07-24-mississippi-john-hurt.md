@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mississippi John Hurt
-categories: music
+categories: bookmarks
 ---
 
 You got to walk that lonesome valley / Well, you got to walk it for yourself / Ain’t nobody else can walk it for you / You got to walk that valley for yourself.

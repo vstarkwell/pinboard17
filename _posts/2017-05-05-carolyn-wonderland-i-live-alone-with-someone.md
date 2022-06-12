@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Carolyn Wonderland - I Live Alone With Someone
-categories: music
+categories: bookmarks
 ---
 
 I live alone with someone / We share a one bed room / His shoes are in the corner / Where they were this afternoon / Empty dishes in the cupboard / at least they can feel use / But I live alone with someone / ‘Cause together’s just a ruse / I live alone with someone / ‘Cause together is just a ruse

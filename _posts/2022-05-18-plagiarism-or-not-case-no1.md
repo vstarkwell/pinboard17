@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Plagiarism on not, case no1
-categories: music
+categories: notes
 ---
 
 "Art is either plagiarism or revolution." – Paul Gauguin

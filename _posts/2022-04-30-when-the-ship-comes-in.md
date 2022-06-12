@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When the ship comes in
-categories: music
+categories: bookmarks
 ---
 
 <div class="youtube-embed-container">

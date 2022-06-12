@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Ventures live in LA 1981
-categories: music
+categories: bookmarks
 ---
 
 In the late 1970s and into the 1980s, a resurgence of interest in surf music led to some in the punk/new wave audience rediscovering the Ventures.

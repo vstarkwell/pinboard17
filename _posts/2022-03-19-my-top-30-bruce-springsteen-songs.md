@@ -1,7 +1,7 @@
 ---
 layout: post
 title: My top 30 Bruce Springsteen songs
-categories: music
+categories: notes
 ---
 
 In no particular order.
