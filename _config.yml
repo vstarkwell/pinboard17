@@ -10,8 +10,6 @@ twitter_username:
 github_username:  
 host: 
 
-permalink: pretty
-
 # Build settings
 plugins:
   - jekyll-feed
