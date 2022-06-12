@@ -1,10 +1,8 @@
 ---
 layout: post
 title: What a sound!
-description: Vintage 1978 Springsteen video - Prove it all Nigh (long intro)
-summary: 
-comments: 
-tags: [music, bruce-springsteen, 70s]
+date: 
+categories: music
 ---
 
 <div class="youtube-embed-container">

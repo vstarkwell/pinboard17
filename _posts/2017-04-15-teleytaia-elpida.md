@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Τελευταία ελπίδα
-description:  1997. Η συγκλονιστική ιστορία του Γιώργου Σταυρόπουλου που το πανελλήνιο παρακολούθησε με κομμένη την ανάσα.
-summary: 
-comments: 
-tags: [90s, video, tv, trash, mr-boutias, new-channel]
+date: 
+categories: trash
 ---
 
 <div class="youtube-embed-container">

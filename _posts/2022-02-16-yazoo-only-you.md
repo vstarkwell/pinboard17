@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Yazoo - Only You
-description: Yazoo’s (Vince Clarke & Alison Moyet) first single in 1982.
-summary: 
-comments: 
-tags: [music, synth-pop, new-wave, yazoo, 80s]
+date: 
+categories: music
 ---
 
 <div class="youtube-embed-container">

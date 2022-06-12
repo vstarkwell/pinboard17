@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Freddie King - Big Legged Woman
-description: 
-summary: 
-comments: 
-tags: [music, blues, 70s]
+date: 
+categories: music
 ---
 
 <div class="youtube-embed-container">

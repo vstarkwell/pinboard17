@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Roy Orbinson - I Drove All Night
-description: A late Roy Orbinson song.
-summary: 
-comments: 
-tags: [music, 90s]
+date: 
+categories: music
 ---
 
 <div class="youtube-embed-container">

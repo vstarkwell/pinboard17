@@ -1,10 +1,8 @@
 ---
 layout: post
 title: When the ship comes in
-description: Oh, the time will come up when the winds will stop and the breeze will cease to be breathin’. Like the stillness in the wind before the hurricane begins, the hour that the ship comes in.
-summary: 
-comments: 
-tags: [music, bob-dylan, 60s]
+date: 
+categories: music
 ---
 
 <div class="youtube-embed-container">

@@ -1,10 +1,8 @@
 ---
 layout: post
-title: My top 30 Bruce Springsteen songs 
-description: The selection of the best Bruce Springsteen’s songs it’s an extremely difficult exercise for the mind and the soul because the guy has written hundreds of masterpieces. So you have to leave out beautiful songs but it’s just a list of 30.
-summary: 
-comments: 
-tags: [music, bruce-springsteen]
+title: My top 30 Bruce Springsteen songs
+date: 
+categories: music
 ---
 
 In no particular order.

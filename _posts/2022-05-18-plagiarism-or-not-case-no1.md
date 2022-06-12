@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Plagiarism on not, case no1
-description: The Zombies vs Reamonn
-summary: 
-comments: 
-tags: [music, plagiarism, 00s, 10s, the-zombies, reamonn]
+date: 
+categories: music
 ---
 
 "Art is either plagiarism or revolution." – Paul Gauguin

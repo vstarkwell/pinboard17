@@ -1,10 +1,8 @@
 ---
 layout: post
 title: The horse and the rider
-description: King Théoden’s grievous speech while Gamling is putting on his armour, before the battle of Helm’s Deep begins.
-summary: 
-comments: 
-tags: [quote, tolkien]
+date: 
+categories: quotes
 ---
 
 Where now the horse and the rider? Where is the horn that was blowing?  

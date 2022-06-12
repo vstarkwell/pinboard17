@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Sarah Jarosz - I Still Haven’t Found What I’m Looking For
-description: Beautiful, beautiful cover by Sarah Jarosz.
-summary: 
-comments: 
-tags: [video, music, sarah-jaroz, u2, cover]
+date: 
+categories: music
 ---
 
 Beautiful, beautiful cover.

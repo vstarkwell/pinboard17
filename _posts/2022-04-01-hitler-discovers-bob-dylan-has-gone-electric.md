@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Hitler discovers Βob Dylan has gone electric
-description: Μακράν το καλύτερο από όλα τα “ο Χίτλερ ανακαλύπτει...”
-summary: 
-comments: 
-tags: [music, bob-dylan, hitler]
+date: 
+categories: funny
 ---
 
 Μακράν το καλύτερο από όλα τα “ο Χίτλερ ανακαλύπτει...”

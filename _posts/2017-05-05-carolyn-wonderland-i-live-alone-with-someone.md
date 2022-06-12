@@ -1,10 +1,8 @@
 ---
 layout: post
 title: Carolyn Wonderland - I Live Alone With Someone
-description: Guitar-goddess Carolyn Wonderland opens her set with a bluesy rocker that includes a searing guitar solo. Song was one of ten included “Texas Burning, A Lone Star Salute to Our Troops” HD concert special currently airing nationally on PBS.
-summary: 
-comments: 
-tags: [music, blues, 10s, live]
+date: 
+categories: music
 ---
 
 I live alone with someone / We share a one bed room / His shoes are in the corner / Where they were this afternoon / Empty dishes in the cupboard / at least they can feel use / But I live alone with someone / ‘Cause together’s just a ruse / I live alone with someone / ‘Cause together is just a ruse

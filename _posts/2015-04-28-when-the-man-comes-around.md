@@ -1,10 +1,8 @@
 ---
 layout: post
 title: When the man comes around
-description: And I heard, as it were, the noise of thunder. One of the four beasts saying, “Come and see.” And I saw, and behold a white horse.
-summary: 
-comments: 
-tags: [music, johnny-cash, 90s]
+date: 
+categories: music
 ---
 
 Φαντάζομαι μια μέρα που θα έχουν ισοπεδωθεί τα πάντα από μια παγκόσμια πυρηνική καταστροφή, που δεν θα υπάρχει ίχνος ζωής στον πλανήτη παρά μόνο αποκαΐδια κι από κάποια γιγάντια ηχεία θα ακούγεται παντού αυτό το τραγούδι.
