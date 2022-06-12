@@ -4,11 +4,6 @@ layout: default
 
 <section id="home"> <!-- HOME -->
     <article>
-
-{% for category in site.categories %}
-    <li><a href="{{category.url}}"><strong>{{category|first}}</strong></a></li>
-{% endfor %}
-        
     {% for post in site.posts %}
         <h2><a href="{{ post.url }}">{{ post.title }}</a> <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %-d, %Y" }}</time></h2>
     {% endfor %}
