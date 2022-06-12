@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Carolyn Wonderland - I Live Alone With Someone
-date: 
 categories: music
 ---
 

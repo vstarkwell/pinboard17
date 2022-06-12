@@ -1,7 +1,6 @@
 ---
 layout: post
 title: When the man comes around
-date: 
 categories: music
 ---
 

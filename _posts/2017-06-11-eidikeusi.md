@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Ειδίκευση
-date: 
 categories: writings
 ---
 

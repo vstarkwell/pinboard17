@@ -1,7 +1,6 @@
 ---
 layout: post
 title: One chord is fine
-date: 
 categories: quotes
 ---
 

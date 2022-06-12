@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Yamma Trio - Sien Drahmas Al Dia
-date: 
 categories: music
 ---
 

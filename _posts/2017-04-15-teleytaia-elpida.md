@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Τελευταία ελπίδα
-date: 
 categories: trash
 ---
 

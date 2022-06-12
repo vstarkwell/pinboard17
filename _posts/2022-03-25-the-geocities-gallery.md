@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Geocities Gallery 
-date: 
 categories: bookmarks
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The horse and the rider
-date: 
 categories: quotes
 ---
 

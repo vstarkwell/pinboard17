@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Λάμπουν τα χιόνια στα βουνά
-date: 
 categories: shorts
 ---
 

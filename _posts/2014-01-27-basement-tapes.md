@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Basement tapes
-date: 
 categories: music
 ---
 

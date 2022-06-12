@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Lost in Translation
-date: 
 categories: shorts
 ---
 

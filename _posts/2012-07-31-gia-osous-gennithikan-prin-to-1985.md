@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Για όσους γεννήθηκαν πριν το 1985
-date: 
 categories: writings
 ---
 

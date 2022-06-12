@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Sarah Jarosz - I Still Haven’t Found What I’m Looking For
-date: 
 categories: music
 ---
 

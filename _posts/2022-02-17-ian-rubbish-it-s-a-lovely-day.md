@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Ian Rubbish & The Bizarros - It’s A Lovely Day
-date: 
 categories: music
 ---
 

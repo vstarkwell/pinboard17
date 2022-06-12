@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Yazoo - Only You
-date: 
 categories: music
 ---
 

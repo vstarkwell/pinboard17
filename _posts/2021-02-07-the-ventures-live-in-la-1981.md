@@ -1,7 +1,6 @@
 ---
 layout: post
 title: The Ventures live in LA 1981
-date: 
 categories: music
 ---
 

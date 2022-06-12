@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Ο Βιργίλιος Στάρκγουελ και η κυρία Σ
-date: 
 categories: writings
 ---
 

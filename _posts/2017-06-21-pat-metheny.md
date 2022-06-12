@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Pat Metheny
-date: 
 categories: shorts
 ---
 

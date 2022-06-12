@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Freddie King - Big Legged Woman
-date: 
 categories: music
 ---
 

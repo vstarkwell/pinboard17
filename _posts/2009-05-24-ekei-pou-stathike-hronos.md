@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Εκεί που στάθηκε ο χρόνος
-date: 
 categories: writings
 ---
 

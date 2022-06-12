@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Το σβηστό φανάρι
-date: 
 categories: music
 ---
 

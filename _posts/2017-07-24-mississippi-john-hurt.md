@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Mississippi John Hurt
-date: 
 categories: music
 ---
 

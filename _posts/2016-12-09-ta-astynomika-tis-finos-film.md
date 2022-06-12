@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Τα αστυνομικά της Φίνος Φιλμς
-date: 
 categories: writings
 ---
 

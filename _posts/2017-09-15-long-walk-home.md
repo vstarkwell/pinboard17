@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Long walk home
-date: 
 categories: writings
 ---
 

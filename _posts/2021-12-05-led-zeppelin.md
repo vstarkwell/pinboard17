@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Η καλύτερη κριτική που έχω διαβάσει για τους Led Zeppelin
-date: 
 categories: music
 ---
 

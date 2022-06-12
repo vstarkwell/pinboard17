@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Η ζωή δεν υπάρχει για να επαληθεύσει θεωρίες
-date: 
 categories: quotes
 ---
 

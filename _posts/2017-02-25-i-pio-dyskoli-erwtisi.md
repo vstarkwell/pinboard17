@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Η πιο δύσκολη ερώτηση
-date: 
 categories: writings
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Delenda Est
-date: 
 categories: shorts
 ---
 

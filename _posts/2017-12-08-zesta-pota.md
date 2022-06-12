@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Ζεστά ποτά
-date: 
 categories: writings
 ---
 

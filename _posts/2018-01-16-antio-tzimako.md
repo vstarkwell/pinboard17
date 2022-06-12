@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Αντίο Τζιμάκο
-date: 
 categories: writings
 ---
 

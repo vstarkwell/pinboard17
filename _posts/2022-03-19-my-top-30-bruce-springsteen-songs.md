@@ -1,7 +1,6 @@
 ---
 layout: post
 title: My top 30 Bruce Springsteen songs
-date: 
 categories: music
 ---
 

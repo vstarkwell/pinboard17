@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Roy Orbinson - I Drove All Night
-date: 
 categories: music
 ---
 

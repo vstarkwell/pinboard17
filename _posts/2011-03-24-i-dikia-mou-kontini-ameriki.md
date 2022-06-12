@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Η δικιά μου κοντινή Αμερική
-date: 
 categories: writings
 ---
 

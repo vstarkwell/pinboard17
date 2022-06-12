@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Hitler discovers Βob Dylan has gone electric
-date: 
 categories: funny
 ---
 

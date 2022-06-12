@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Distraction
-date: 
 categories: quotes
 ---
 

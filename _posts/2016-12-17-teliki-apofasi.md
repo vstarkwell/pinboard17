@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Τελική απόφαση
-date: 
 categories: trash
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: When the ship comes in
-date: 
 categories: music
 ---
 

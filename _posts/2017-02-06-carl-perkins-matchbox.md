@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Carl Perkins - Matchbox
-date: 
 categories: music
 ---
 

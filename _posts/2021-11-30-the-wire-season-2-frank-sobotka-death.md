@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Frank Sobotka death
-date: 
 categories: music
 ---
 

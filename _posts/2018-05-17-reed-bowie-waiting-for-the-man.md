@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Reed and Bowie - Waiting for the Man
-date: 
 categories: music
 ---
 

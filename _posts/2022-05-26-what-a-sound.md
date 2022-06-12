@@ -1,7 +1,6 @@
 ---
 layout: post
 title: What a sound!
-date: 
 categories: music
 ---
 

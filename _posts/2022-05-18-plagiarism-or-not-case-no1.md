@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Plagiarism on not, case no1
-date: 
 categories: music
 ---
 

@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Το ιερό δισκοπότηρο
-date: 
 categories: writings
 ---
 
