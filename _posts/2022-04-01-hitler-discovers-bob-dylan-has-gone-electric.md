@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Hitler discovers Βob Dylan has gone electric
-categories: funny
 description: Μακράν το καλύτερο από όλα τα “ο Χίτλερ ανακαλύπτει...”
 summary: 
 comments: 
