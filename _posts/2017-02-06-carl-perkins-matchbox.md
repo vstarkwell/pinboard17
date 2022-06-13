@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Carl Perkins - Matchbox
-categories: bookmarks
+categories: songs
+permalink: /songs/carl-perkins-matchbox/
 ---
 
 A December 1956 recorging made at the legendary Sun Studio in Memphis. Carl Perkins - lead vocals & electric guitar, Jerry Lee Lewis - piano, WS «Fluke» Holland - drums, Clayton Perkins - base guitar, Jay Perkins - acoustic guitar.

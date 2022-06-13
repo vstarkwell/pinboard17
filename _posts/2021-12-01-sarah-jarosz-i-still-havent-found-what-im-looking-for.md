@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Sarah Jarosz - I Still Haven’t Found What I’m Looking For
-categories: notes
+categories: songs
+permalink: /songs/sarah-jarosz-i-still-havent-found-what-im-looking-for/
 ---
 
 Beautiful, beautiful cover.

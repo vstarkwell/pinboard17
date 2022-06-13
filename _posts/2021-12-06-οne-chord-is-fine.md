@@ -2,6 +2,7 @@
 layout: post
 title: One chord is fine
 categories: quotes
+permalink: /quotes/οne-chord-is-fine/
 ---
 
 “One chord is fine. Two chords is pushing it. Three chords and you’re into jazz.”

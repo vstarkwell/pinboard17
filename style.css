@@ -50,7 +50,7 @@ section:target { /* Show section */
   display: block;
 }
 
-section#home { /* Show #home by default */
+section#home, section#blog { /* Show #home by default */
   display: block;
 }
 
@@ -467,6 +467,7 @@ article time {
   height: 0; 
   overflow: hidden; 
   max-width: 100%;
+  margin-bottom: .6em;
 }
 
 .youtube-embed-container iframe { 

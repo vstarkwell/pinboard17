@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Yamma Trio - Sien Drahmas Al Dia
-categories: bookmarks
+categories: songs
+permalink: /songs/sien-drahmas-al-dia/
 ---
 
 Jewish Sephardi song from the repertoire of Jewish community that settled down in Greece after the expulsion from Spain in 1492.

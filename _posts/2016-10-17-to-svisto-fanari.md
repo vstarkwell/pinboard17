@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Το σβηστό φανάρι
-categories: bookmarks
+categories: songs
+permalink: /songs/to-svisto-fanari/
 ---
 
 <div class="youtube-embed-container">

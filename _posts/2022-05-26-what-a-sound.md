@@ -1,7 +1,8 @@
 ---
 layout: post
 title: What a sound!
-categories: bookmarks
+categories: songs
+permalink: /songs/what-a-sound/
 ---
 
 <div class="youtube-embed-container">

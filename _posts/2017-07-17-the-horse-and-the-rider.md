@@ -2,6 +2,7 @@
 layout: post
 title: The horse and the rider
 categories: quotes
+permalink: /quotes/the-horse-and-the-rider/
 ---
 
 Where now the horse and the rider? Where is the horn that was blowing?  

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Roy Orbinson - I Drove All Night
-categories: bookmarks
+categories: songs
+permalink: /songs/roy-orbinson-i-drove-all-night/
 ---
 
 <div class="youtube-embed-container">

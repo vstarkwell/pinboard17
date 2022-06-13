@@ -1,7 +1,8 @@
 ---
 layout: post
 title: When the ship comes in
-categories: bookmarks
+categories: songs
+permalink: /songs/when-the-ship-comes-in/
 ---
 
 <div class="youtube-embed-container">

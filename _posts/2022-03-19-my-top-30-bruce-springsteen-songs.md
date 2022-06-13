@@ -2,6 +2,7 @@
 layout: post
 title: My top 30 Bruce Springsteen songs
 categories: notes
+permalink: /notes/my-top-30-bruce-springsteen-songs/
 ---
 
 In no particular order.

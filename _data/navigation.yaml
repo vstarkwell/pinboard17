@@ -1,8 +1,8 @@
 # - title: About
 #   url: /#about
 
-- title: Blog
-  url: /#blog
+- title: all posts
+  url: /blog
 
 # - title: Photos
 #   url: /#photos

@@ -1,7 +1,8 @@
 ---
 layout: post
 title: Frank Sobotka death
-categories: notes
+categories: songs
+permalink: /songs/the-wire-season-2-frank-sobotka-death/
 ---
 
 “Efige” (She Left) by Stelios Kazantzidis, an amazing old school Greek music playing in the background of the scene. 
