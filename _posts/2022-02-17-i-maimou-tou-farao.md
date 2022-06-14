@@ -5,4 +5,7 @@ categories: media
 permalink: /media/i-maimou-tou-farao/
 ---
 
-<img src="https://www.dropbox.com/s/x9ja11xiws1inj4/maimou-tou-farao.MP4?raw=1" alt="Η μαϊμού του Φαραώ" />
+<video controls>
+  <source src="https://www.dropbox.com/s/x9ja11xiws1inj4/maimou-tou-farao.MP4?raw=1" type="video/mp4">
+Your browser does not support the video tag.
+</video>
