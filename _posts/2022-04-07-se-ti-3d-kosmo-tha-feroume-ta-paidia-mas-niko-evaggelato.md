@@ -1,8 +1,8 @@
 ---
 layout: post
-title: Ευαγγελάτος, ψωμί και 3D
+title: Σε τι 3d κόσμο θα φέρουμε τα παιδιά μας Νίκο Ευαγγελάτο;
 categories: screencaps
-permalink: /screencaps/evaggelatos-psomi-kai-3d/
+permalink: /screencaps/se-ti-3d-kosmo-tha-feroume-ta-paidia-mas-niko-evaggelato/
 ---
 
 <video controls>
