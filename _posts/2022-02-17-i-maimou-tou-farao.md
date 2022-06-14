@@ -1,8 +1,8 @@
 ---
 layout: post
 title: Η μαϊμού του Φαραώ
-categories: media
-permalink: /media/i-maimou-tou-farao/
+categories: screencaps
+permalink: /screencaps/i-maimou-tou-farao/
 ---
 
 <video controls>
