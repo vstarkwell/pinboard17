@@ -2,7 +2,7 @@
 layout: post
 title: Ευαγγελάτος, ψωμί και 3D
 categories: screencaps
-permalink: /screenshots/evaggelatos-psomi-kai-3d/
+permalink: /screencaps/evaggelatos-psomi-kai-3d/
 ---
 
 <video controls>
