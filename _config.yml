@@ -1,9 +1,9 @@
 # John Doe Jekyll Theme Config
 
-title: Pinboard 17
+title: Dumpster3
 email: nikosvarr17@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Just odds ’n ends. My online bookmarks and notes dumpster.
+  My online dumpster where you can find (mostly) writings, notes, quotes, songs, bookmarks, images, memes and screencaps.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
